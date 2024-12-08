@@ -7,3 +7,9 @@ const user: User = {
     name: "Hayes",
     id: 0,
 }
+
+// annotating function parameters
+
+function userActions (inputUser: User) {
+    // ..
+}
